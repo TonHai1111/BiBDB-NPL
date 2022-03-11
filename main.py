@@ -61,7 +61,7 @@ def add_doi_authors_year_volume_page(csv_file, output_file):
                 row[header[i]] = csv_row[i]
             row["DOI"] = str(doi)
             row["Authors"] = str_authors
-            row["Year"] = year
+            row["Published-print"] = year
             row["Volume"] = volume
             row["Page"] = page
             all_rows.append(row)
@@ -69,7 +69,7 @@ def add_doi_authors_year_volume_page(csv_file, output_file):
             print(count)
     header.append("DOI")
     header.append("Authors")
-    header.append("Year")
+    header.append("Published-print")
     header.append("Volume")
     header.append("Page")
     write_rows_to_csv(all_rows, output_file, header)
@@ -85,6 +85,6 @@ if __name__ == "__main__":
     # )
     add_doi_authors_year_volume_page(
         DATA_INPUT_DIR + "mailing list-Augmented.csv",
-        DATA_OUTPUT_DIR + "mailing list-doi_authors.csv",
+        DATA_OUTPUT_DIR + "mailing list-doi_authors_year_volume_page.csv",
     )
     print("Done!")
