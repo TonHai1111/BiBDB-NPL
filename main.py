@@ -54,7 +54,7 @@ def add_doi_authors_year_volume_page(csv_file, output_file):
             str_authors = research_paper.get_str_authors_from_json(json_data)
             year = research_paper.get_year_from_json(json_data)
             volume = research_paper.get_volume_from_json(json_data)
-            page = research_paper.get_volume_from_json(json_data)
+            page = research_paper.get_page_from_json(json_data)
             research_paper.add_title_json(doi, json_data)
             row = {}
             for i in range(len(header)):
