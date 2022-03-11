@@ -1,0 +1,6 @@
+Temp/
+.vscode/
+venv/
+tox.ini
+lib/__pycache__/
+data/final/

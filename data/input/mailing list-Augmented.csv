@@ -1,0 +1,603 @@
+Author,Year,Title,Publication
+Zhou,2021,ADDCNN: An Attention-Based Deep Dilated Convolutional Neural Network for Seismic Facies Analysis With Interpretable SpatialSpectral Maps,IEEE Trans Geosci Remote Sensing
+Muerth,2021,ExtremeEarth Meets Satellite Data From Space,IEEE J Sel Top Appl Earth Observ Remote Sens
+Karim,2021,Deep/Transfer Learning with Feature Space Ensemble Networks (FeatSpaceEnsNets) and Average Ensemble Networks (AvgEnsNets) for Change Detection Using DInSAR Sentinel-1 and Optical Sentinel-2 Satellite Data Fusion,Remote Sens
+Carvalho,2021,Satellite Image Time Series Analysis for Big Earth Observation Data,Remote Sens
+Cherati,2021,Bio-Inspired Hybridization of Artificial Neural Networks: An Application for Mapping the Spatial Distribution of Soil Texture Fractions,Remote Sens
+Park,2019,Spatial Assessment of Solar Radiation by Machine Learning and Deep Neural Network Models Using Data Provided by the COMS MI Geostationary Satellite: A Case Study in South Korea,Sensors
+Puertas-Ruiz,2020,Tree Cover Estimation in Global Drylands from Space Using Deep Learning,Remote Sens
+Hsu,2021,Tobler's First Law in GeoAI: A Spatially Explicit Deep Learning Model for Terrain Feature Detection under Weak Supervision,Ann Am Assoc Geogr
+Song,2021,Prediction of Subsidence during TBM Operation in Mixed-Face Ground Conditions from Realtime Monitoring Data,Appl Sci -Basel
+Lee,2021,Prediction of Subsidence during TBM Operation in Mixed-Face Ground Conditions from Realtime Monitoring Data,Appl Sci -Basel
+Manuel Sanchez,2020,Use of computational intelligence techniques to predict flooding in places adjacent to the Magdalena River,Heliyon
+Reichstein,2019,Deep learning and process understanding for data-driven Earth system science,Nature
+Bahrami,2021,Deep Learning-Based Estimation of Crop Biophysical Parameters Using Multi-Source and Multi-Temporal Remote Sensing Observations,Agronomy-Basel
+Ali,2020,Big Data Analytics for Short and Medium-Term Electricity Load Forecasting Using an AI Techniques Ensembler,Energies
+Wightman,2019,A MACHINE LEARNING PIPELINE ARTICULATING SATELLITE IMAGERY AND OPENSTREETMAP FOR ROAD DETECTION,FOSS4G 2019 - ACADEMIC TRACK
+Tombe,2021,Adaptive Deep Co-Occurrence Feature Learning Based on Classifier-Fusion for Remote Sensing Scene Classification,IEEE J Sel Top Appl Earth Observ Remote Sens
+Gamazo,2021,Distribution of Groundwater Arsenic in Uruguay Using Hybrid Machine Learning and Expert System Approaches,Water
+Pandey,2020,"Artificial Neural Network Optimized with a Genetic Algorithm for Seasonal Groundwater Table Depth Prediction in Uttar Pradesh, India",Sustainability
+Kumar,2020,"Artificial Neural Network Optimized with a Genetic Algorithm for Seasonal Groundwater Table Depth Prediction in Uttar Pradesh, India",Sustainability
+Farchi,2021,Using machine learning to correct model error in data assimilation and forecast applications,Q J R Meteorol Soc
+Al-Abadi,2021,"Modeling of Groundwater Potential Using Cloud Computing Platform: A Case Study from Nineveh Plain, Northern Iraq",Water
+Winterle,2021,Interpretable vs,noninterpretable machine learning models for data-driven hydro-climatological process modeling (R) Expert Syst Appl
+Berganzo-Besga,2021,Hybrid MSRM-Based Deep Learning and Multitemporal Sentinel 2-Based Machine Learning Algorithm Detects Near 10k Archaeological Tumuli in North-Western Iberia,Remote Sens
+Salem,2018,Comparison of CNNs for Remote Sensing Scene Classification,PROCEEDINGS OF 2018 13TH INTERNATIONAL CONFERENCE ON COMPUTER ENGINEERING AND SYSTEMS (ICCES)
+Amin,2018,DeepSIC: a deep model For satellite image classification,Cluster Comput
+Zaki,TICS,Increase the Exploitation of Mars Satellite Images Via Deep Learning Techniques,PROCEEDINGS OF INTERNATIONAL CONFERENCE ON ROB
+Ghayour,2021,Performance Evaluation of Sentinel-2 and Landsat 8 OLI Data for Land Cover/Use Classification Using a Comparison between Machine Learning Algorithms,Remote Sens
+Svennevik,2021,Prediction of Cloud Fractional Cover Using Machine Learning,Big Data Cogn Comput
+Latif,2021,Predictive modelling of piezometric head and seepage discharge in earth dam using soft computational models,Environ Sci Pollut Res
+Chakrabarti,2021,Analysis of Earthquake Forecasting in India Using Supervised Machine Learning Classifiers,Sustainability
+Tavus,2021,Integration of an InSAR and ANN for Sinkhole Susceptibility Mapping: A Case Study from Kirikkale-Delice (Turkey),ISPRS Int J Geo-Inf
+Er,2021,Integration of an InSAR and ANN for Sinkhole Susceptibility Mapping: A Case Study from Kirikkale-Delice (Turkey),ISPRS Int J Geo-Inf
+Ertugrul,2021,Integration of an InSAR and ANN for Sinkhole Susceptibility Mapping: A Case Study from Kirikkale-Delice (Turkey),ISPRS Int J Geo-Inf
+Ozdemir,2021,Integration of an InSAR and ANN for Sinkhole Susceptibility Mapping: A Case Study from Kirikkale-Delice (Turkey),ISPRS Int J Geo-Inf
+Kaya,2021,Integration of an InSAR and ANN for Sinkhole Susceptibility Mapping: A Case Study from Kirikkale-Delice (Turkey),ISPRS Int J Geo-Inf
+Bhandari,2021,Automatic Detection of Impervious Surfaces from Remotely Sensed Data Using Deep Learning,Remote Sens
+Thi,2022,Deep Learning-Based Water Crystal Classification,Appl Sci -Basel
+Andres,2022,Deep Learning-Based Water Crystal Classification,Appl Sci -Basel
+Quoc,2022,Deep Learning-Based Water Crystal Classification,Appl Sci -Basel
+Emoto,2022,Deep Learning-Based Water Crystal Classification,Appl Sci -Basel
+Hayashi,2022,Deep Learning-Based Water Crystal Classification,Appl Sci -Basel
+Katsumata,2022,Deep Learning-Based Water Crystal Classification,Appl Sci -Basel
+Timilsina,2020,Mapping Urban Tree Cover Changes Using Object-Based Convolution Neural Network (OB-CNN),Remote Sens
+Karray,2018,PREDICAT: A semantic service-oriented platform for data interoperability and linking in earth observation and disaster prediction,2018 IEEE 11TH CONFERENCE ON SERVICE-ORIENTED COMPUTING AND APPLICATIONS (SOCA)
+Archimede,2018,PREDICAT: A semantic service-oriented platform for data interoperability and linking in earth observation and disaster prediction,2018 IEEE 11TH CONFERENCE ON SERVICE-ORIENTED COMPUTING AND APPLICATIONS (SOCA)
+Vakalopoulou,2019,A Novel Object-Based Deep Learning Framework for Semantic Segmentation of Very High-Resolution Remote Sensing Data: Comparison with Convolutional and Fully Convolutional Networks,Remote Sens
+Roesch,2020,Geospatial Data Management Research: Progress and Future Directions,ISPRS Int Geo-Inf
+Armaghani,2020,Seepage Analysis in Short Embankments Using Developing a Metaheuristic Method Based on Governing Equations,Appl Sci -Basel
+Cao,2020,Enabling the Big Earth Observation Data via Cloud Computing and DGGS: Opportunities and Challenges,Remote Sens
+Dalila,2022,Missing data imputation of MAGDAS-9 ' s ground electromagnetism with supervised machine learning and conventional statistical analysis models,Alex Eng J
+Jamel,2021,STABILITY AND SEEPAGE OF EARTH DAMS WITH TOE FILTER (CALIBRATED WITH ARTIFICIAL NEURAL NETWORK),J Eng Sci Technol
+Iizuka,2020,Geochemical Discrimination of Monazite Source Rock Based on Machine Learning Techniques and Multinomial Logistic Regression Analysis,Geosciences
+Astola,2021,Deep Neural Networks with Transfer Learning for Forest Variable Estimation Using Sentinel-2 Imagery in Boreal Forest,Remote Sens
+Huang,2021,Prediction of marine heat flow based on the random forest method and geological and geophysical features,Mar Geophys Res
+Wu,2021,Prediction of marine heat flow based on the random forest method and geological and geophysical features,Mar Geophys Res
+Shirazy,2021,"Investigation of Magneto-/Radio-Metric Behavior in Order to Identify an Estimator Model Using K-Means Clustering and Artificial Neural Network (ANN) (Iron Ore Deposit, Yazd, IRAN)",Minerals
+Ghorbani,2018,Presenting a new method to improve the detection of micro-seismic events,Environ Monit Assess
+Saidani,form,Analysis of positive correlation in magnitude and time measurement for earthquake using electric signals,Earth Sci I
+Koprivec,2020,FASTENER Feature Selection for Inference from Earth Observation Data,Entropy
+Ma,2019,Performance optimization and evaluation for parallel processing of big data in earth system models,Cluster Comput
+Haensch,2021,Global Land-Cover Mapping With Weak Supervision: Outcome of the 2020 IEEE GRSS Data Fusion Contest,IEEE J Sel Top Appl Earth Observ Remote Sens
+Song,2020,Rainfall Monitoring Based on Machine Learning by Earth-Space Link in the Ku Band,IEEE J Sel Top Appl Earth Observ Remote Sens
+Gao,2020,Rainfall Monitoring Based on Machine Learning by Earth-Space Link in the Ku Band,IEEE J Sel Top Appl Earth Observ Remote Sens
+Khan,2021,Hantavirus: The Next Pandemic We Are Waiting For?,Interdiscip Sci
+Jurado,2021,"Review of Recent Drilling Projects in Unconventional Geothermal Resources at Campi Flegrei Caldera, Cornubian Batholith, and Williston Sedimentary Basin",Energies
+Yousaf,2020,Glacial Lakes Mapping Using Multi Satellite PlanetScope Imagery and Deep Learning,ISPRS Int J Geo-Inf
+Wang,2018,ENVISIONED WIRELESS BIG DATA STORAGE FOR LOW-EARTH-ORBIT SATELLITE-BASED CLOUD,IEEE Wirel Commun
+Budavari,2020,Deep Learning for Land Cover Classification Using Only a Few Bands,Remote Sens
+Thepaut,2020,Artificial Neural Networks to Retrieve Land and Sea Skin Temperature from IASI,Remote Sens
+Cheng,2020,Big Earth Observation Data Integration in Remote Sensing Based on a Distributed Spatial Framework,Remote Sens
+Wen,2022,Upscaling in Situ Site-Based Albedo Using Machine Learning Models: Main Controlling Factors on Results,IEEE Trans Geosci Remote Sensing
+Iapaolo,2020,Predicting WNV Circulation in Italy Using Earth Observation Data and Extreme Gradient Boosting Model,Remote Sens
+Vincenzi,2020,Predicting WNV Circulation in Italy Using Earth Observation Data and Extreme Gradient Boosting Model,Remote Sens
+Rezaei,2019,Assessment of Landslide Susceptibility Using Statistical- and Artificial Intelligence-Based FR-RF Integrated Model and Multiresolution DEMs,Remote Sens
+Marujo,2020,"Earth Observation Data Cubes for Brazil: Requirements, Methodology and Products",Remote Sens
+Zhou,2022,Automatic Framework of Mapping Impervious Surface Growth With Long-Term Landsat Imagery Based on Temporal Deep Learning Model,IEEE Geosci Remote Sens Lett
+Cheminant,2021,CNN-Based Classifier as an Offline Trigger for the CREDO Experiment,Sensors
+Arkle,2018,Estimating vegetation biomass and cover across large plots in shrub and grass dominated drylands using terrestrial lidar and machine learning,Ecol Indic
+Lee,2019,CloudSegNet: A Deep Network for Nychthemeron Cloud Image Segmentation,IEEE Geosci Remote Sens Lett
+Maciel,2018,Big earth observation time series analysis for monitoring Brazilian agriculture,ISPRS-J Photogramm Remote Sens
+Duc Anh Nguyen,2020,"Novel Ensemble Landslide Predictive Models Based on the Hyperpipes Algorithm: A Case Study in the Nam Dam Commune, Vietnam",Appl Sci -Basel
+Trung Hieu Tran,2020,"Novel Ensemble Landslide Predictive Models Based on the Hyperpipes Algorithm: A Case Study in the Nam Dam Commune, Vietnam",Appl Sci -Basel
+Gargouri,TING,Towards Knowledge-Driven Automatic Service Composition for Wildfire Prediction,SERVICE-ORIENTED COMP
+Geng,2019,Hyperspectral Image Classification Based on Two-Phase Relation Learning Network,IEEE Trans Geosci Remote Sensing
+de Souza,2020,Evaluation of machine learning methods for lithology classification using geophysical data,Comput Geosci
+Marti,2021,Machine Learning for Mineral Identification and Ore Estimation from Hyperspectral Imagery in Tin-Tungsten Deposits: Simulation under Indoor Conditions,Remote Sens
+Karadayi,DATA,Unsupervised Anomaly Detection in Multivariate Spatio-Temporal Datasets Using Deep Learning,ADVANCED ANALYTICS AND LEARNING ON TEMPORAL
+Duval,2019,"HexaShrink, an exact scalable framework for hexahedral meshes with attributes and discontinuities: multiresolution rendering and storage of geoscience models",Comput Geosci
+Merodio Gomez,2021,Earth Observations and Statistics: Unlocking Sociodemographic Knowledge through the Power of Satellite Images,Sustainability
+Supangkat,2018,Big Data Analytics for Safe and Secure City,2018 INTERNATIONAL CONFERENCE ON ICT FOR SMART SOCIETY (ICISS)
+Simonis,2018,Container-based Architecture to Optimize the Integration of Microservices into Cloud-Based Data-Intensive Application Scenarios,ECSA 2018: PROCEEDINGS OF THE 12TH EUROPEAN CONFERENCE ON SOFTWARE ARCHITECTURE: COMPANION PROCEEDINGS
+Mohrdieck,2020,"Data Analytics, Machine Learning and Risk Assessment for Surveillance and Situation Awareness",2020 21ST INTERNATIONAL RADAR SYMPOSIUM (IRS 2020)
+Khoshboresh-Masouleh,2020,A Deep Learning Method for Near-Real-Time Cloud and Cloud Shadow Segmentation from Gaofen-1 Images,Comput Intell Neurosci
+Moghaddam,2020,An SVM-Based Scheme for Automatic Identification of Architectural Line Features and Cracks,Appl Sci -Basel
+Messina,2020,An SVM-Based Scheme for Automatic Identification of Architectural Line Features and Cracks,Appl Sci -Basel
+Zhang,2022,Hypergraph-Structured Autoencoder for Unsupervised and Semisupervised Classification of Hyperspectral Image,IEEE Geosci Remote Sens Lett
+Delipetrev,2019,Evaluation of the Potential of Convolutional Neural Networks and Random Forests for Multi-Class Segmentation of Sentinel-2 Imagery,Remote Sens
+Follega,2022,Deep learning based event reconstruction for the Limadou High-Energy Particle Detector,Phys Rev D
+Iuppa,2022,Deep learning based event reconstruction for the Limadou High-Energy Particle Detector,Phys Rev D
+Hoang Phan Hai Yen,2020,"A Comparative Study of Kernel Logistic Regression, Radial Basis Function Classifier, Multinomial Naive Bayes, and Logistic Model Tree for Flash Flood Susceptibility Mapping",Water
+Sonnenschein,2021,Geohazards Monitoring and Assessment Using Multi-Source Earth Observation Techniques,Remote Sens
+Burkhard, GIS,APPLICATION OF REMOTE SENSING AND BIG DATA FOR GLOBAL WATER USE SUSTAINABILITY ASSESSMENT AND MONITORING,7TH INTERNATIONAL CONFERENCE ON CARTOGRAPHY AN
+Carevic,2021,"Geological Approach for Landfill Site Selection: A Case Study of Vrsac Municipality, Serbia",Sustainability
+Batocanin,2021,"Geological Approach for Landfill Site Selection: A Case Study of Vrsac Municipality, Serbia",Sustainability
+Alshahrani,2021,An automated deep learning based satellite imagery analysis for ecology management,Ecol Inform
+El Marouani,2020,Using Earth Mover's Distance and Word Embeddings for Recognizing Textual Entailment in Arabic,Comput Sist
+Enneya,2020,Using Earth Mover's Distance and Word Embeddings for Recognizing Textual Entailment in Arabic,Comput Sist
+Ahmed,2019,Efficient Water Quality Prediction Using Supervised Machine Learning,Water
+Shah,2019,Efficient Water Quality Prediction Using Supervised Machine Learning,Water
+Irfan,2019,Efficient Water Quality Prediction Using Supervised Machine Learning,Water
+Shi,2020,Bidirectional Grid Fusion Network for Accurate Land Cover Classification of High-Resolution Remote Sensing Images,IEEE J Sel Top Appl Earth Observ Remote Sens
+Wei,2021,A Digital Signal Recovery Technique Using DNNs for LEO Satellite Communication Systems,IEEE Trans Ind Electron
+Farmakis,2021,Targeted Rock Slope Assessment Using Voxels and Object-Oriented Classification,Remote Sens
+Schmidt,2021,Remote Sensing for Short-Term Economic Forecasts,Sustainability
+Bashir,2021,"Mapping Allochemical Limestone Formations in Hazara, Pakistan Using Google Cloud Architecture: Application of Machine-Learning Algorithms on Multispectral Data",ISPRS Int J Geo-Inf
+Din,2021,"Mapping Allochemical Limestone Formations in Hazara, Pakistan Using Google Cloud Architecture: Application of Machine-Learning Algorithms on Multispectral Data",ISPRS Int J Geo-Inf
+Xu,2018,Urban Area Detection in Very High Resolution Remote Sensing Images Using Deep Convolutional Neural Networks,Sensors
+Ahmad,2019,Analyzing Machine Learning Predictions of Passive Microwave Brightness Temperature Spectral Difference Over Snow-Covered Terrain in High Mountain Asia,Front Earth Sci
+Stark,2021,Deep Learning-Based Generation of Building Stock Data from Remote Sensing for Urban Heat Demand Modeling,ISPRS Int J Geo-Inf
+Gore,2020,DWELLING IN THE ANTHROPOCENE: NOTES FROM LAKE SUPERIOR JOSHUA TREY BARNETT AND DAVID CHARLES GORE,Ethics Environ
+Kite,2021,Assessing the Generalization of Machine Learning-Based Slope Failure Prediction to New Geographic Extents,ISPRS Int J Geo-Inf
+Wu,2020,A Multi-Sensor Fusion Framework Based on Coupled Residual Convolutional Neural Networks,Remote Sens
+Moustafa,2021,Hyperspectral change detection based on modification of UNet neural networks,J Appl Remote Sens
+de Morais,2020,Sunspot behavior forecast using neural networks approaches,2020 IEEE INTERNATIONAL CONFERENCE ON INDUSTRIAL TECHNOLOGY (ICIT)
+Scott,2021,Re/turning to soil: becoming one-bodied with the Earth,Cult Stud Sci Educ
+Guigoz,2019,"Snow Cover Evolution in the Gran Paradiso National Park, Italian Alps, Using the Earth Observation Data Cube",Data
+Zhou,2021,RSIMS: Large-Scale Heterogeneous Remote Sensing Images Management System,Remote Sens
+Han,2021,Spatial-Temporal Distribution of the Freeze-Thaw Cycle of the Largest Lake (Qinghai Lake) in China Based on Machine Learning and MODIS from 2000 to 2020,Remote Sens
+Wu,2021,Proportionated Distributions in Spatiotemporal Structure of the World Cultural Heritage Sites: Analysis and Countermeasures,Sustainability
+Guerron-Orejuela,2022,Using Remote Sensing and Machine Learning to Locate Groundwater Discharge to Salmon-Bearing Streams,Remote Sens
+Lin,2021,Toward Large-Scale Mapping of Tree Crops with High-Resolution Satellite Imagery and Deep Learning Algorithms: A Case Study of Olive Orchards in Morocco,Remote Sens
+Ghosh,2021,Toward Large-Scale Mapping of Tree Crops with High-Resolution Satellite Imagery and Deep Learning Algorithms: A Case Study of Olive Orchards in Morocco,Remote Sens
+Wilhelm,2021,Towards Tackling Multi-Label Imbalances in Remote Sensing Imagery,2020 25TH INTERNATIONAL CONFERENCE ON PATTERN RECOGNITION (ICPR)
+Hernandez-Barco,2020,Teaching Down to Earth-Service-Learning Methodology for Science Education and Sustainability at the University Level: A Practical Approach,Sustainability
+Drivas,2021,Semantically Enriched Crop Type Classification and Linked Earth Observation Data to Support the Common Agricultural Policy Monitoring,IEEE J Sel Top Appl Earth Observ Remote Sens
+Michalopoulou,2018,Challenges in Estimating Global CF4 and C2F6 Emissions,LIGHT METALS 2018
+Zhong,2020,Discriminative Feature Learning Constrained Unsupervised Network for Cloud Detection in Remote Sensing Imagery,Remote Sens
+Zhang,2021,Deep-learning-based burned area mapping using the synergy of Sentinel-1&2 data,Remote Sens Environ
+Yan,2018,WSF-NET: Weakly Supervised Feature-Fusion Network for Binary Segmentation in Remote Sensing Image,Remote Sens
+Han,2019,Aerial Image Road Extraction Based on an Improved Generative Adversarial Network,Remote Sens
+Barsi,2020,Calibrating Geosynchronous and Polar Orbiting Satellites: Sharing Best Practices,Remote Sens
+Wang,2019,Downscaling Precipitation in the Data-Scarce Inland River Basin of Northwest China Based on Earth System Data Products,Atmosphere
+Dutta,2021,New Trends in Bioremediation Technologies Toward Environment-Friendly Society: A Mini-Review,Front Bioeng Biotechnol
+Gitis,IONS,Earthquake Prediction Based on Combined Seismic and GPS Monitoring Data,COMPUTATIONAL SCIENCE AND ITS APPLICA
+Ferguson,2021,Microgravity-induced alterations of mouse bones are compartment- and site-specific and vary with age,Bone
+Naghipour,2021,Vegetation Types Mapping Using Multi-Temporal Landsat Images in the Google Earth Engine Platform,Remote Sens
+Mahdavi,2020,Estimation of Semiarid Forest Canopy Cover Using Optimal Field Sampling and Satellite Data with Machine Learning Algorithms,J Indian Soc Remote Sens
+Zhu,2018,Towards Real-Time Service from Remote Sensing: Compression of Earth Observatory Video Data via Long-Term Background Referencing,Remote Sens
+Franchi,2020,Statistically learning Archean carbonate diagenesis,Precambrian Res
+Tonelli,2021,Climate Projections for the Southern Ocean Reveal Impacts in the Marine Microbial Communities Following Increases in Sea Surface Temperature,Front Mar Sci
+Venkatappa,2019,Determination of Vegetation Thresholds for Assessing Land Use and Land Use Changes in Cambodia using the Google Earth Engine Cloud-Computing Platform,Remote Sens
+Wei,2021,Assessment of Annual Composite Images Obtained by Google Earth Engine for Urban Areas Mapping Using Random Forest,Remote Sens
+Schmidt,2021,Shortwave Radiance to Irradiance Conversion for Earth Radiation Budget Satellite Observations: A Review,Remote Sens
+Hoang,2020,A New Hybrid Firefly-PSO Optimized Random Subspace Tree Intelligence for Torrential Rainfall-Induced Flash Flood Susceptible Mapping,Remote Sens
+Hoa,2020,A New Hybrid Firefly-PSO Optimized Random Subspace Tree Intelligence for Torrential Rainfall-Induced Flash Flood Susceptible Mapping,Remote Sens
+Sang,2020,A Machine Learning-Based Approach for Improved Orbit Predictions of LEO Space Debris With Sparse Tracking Data From a Single Station,IEEE Trans Aerosp Electron Syst
+de Campos Souza,2019,Pulsar Detection for Wavelets SODA and Regularized Fuzzy Neural Networks Based on Andneuron and Robust Activation Function,Int J Artif Intell Tools
+Guimardes,2019,Pulsar Detection for Wavelets SODA and Regularized Fuzzy Neural Networks Based on Andneuron and Robust Activation Function,Int J Artif Intell Tools
+Wang,2019,A Distributed Storage and Access Approach for Massive Remote Sensing Data in MongoDB,ISPRS Int Geo-Inf
+Ahmad,2022,A machine learning approach for accurate crop type mapping using combined SAR and optical time series data,Adv Space Res
+Bunn,2019,"A Simplified, Object-Based Framework for Efficient Landslide Inventorying Using LIDAR Digital Elevation Model Derivatives",Remote Sens
+Chen,2021,Object-Level Semantic Segmentation on the High-Resolution Gaofen-3 FUSAR-Map Dataset,IEEE J Sel Top Appl Earth Observ Remote Sens
+Zhang,2018,Weather and Air Quality Drive the Winter Use of Utah's Big and Little Cottonwood Canyons,Sustainability
+Kitta,2020,Implementing Sustainable Irrigation in Water-Scarce Regions under the Impact of Climate Change,Agronomy-Basel
+Li,2021,River Extraction under Bankfull Discharge Conditions Based on Sentinel-2 Imagery and DEM Data,Remote Sens
+Cui,2021,Mapping salt marsh along coastal South Carolina using U-Net,ISPRS-J Photogramm Remote Sens
+Curiano,2021,Overview of optical observation strategies and systems: LEO and GEO measurements acquisition for position and attitude determination,2021 IEEE 8TH INTERNATIONAL WORKSHOP ON METROLOGY FOR AEROSPACE (IEEE METROAEROSPACE)
+Tang,2021,Dual-Task Semantic Change Detection for Remote Sensing Images Using the Generative Change Field Module,Remote Sens
+Hashimoto,2019,High-resolution mapping of daily climate variables by aggregating multiple spatial data sets with the random forest algorithm over the conterminous United States,Int J Climatol
+Maqbool,2020,Daily dataset of oil prices and stock prices for the top oil exporting and importing countries from the region of Asia,Data Brief
+Amoruso,2018,Efficient and automatic image reduction framework for space debris detection based on GPU technology,Acta Astronaut
+Oman,2019,Planetary Defense Mitigation Gateway: A One-Stop Gateway for Pertinent PD-Related Contents,Data
+Morgenthal,2021,"Using Sentinel-1 and Sentinel-2 Time Series for Slangbos Mapping in the Free State Province, South Africa",Remote Sens
+Sajjad,2022,"Assessing the Influence of Land Use/Land Cover Alteration on Climate Variability: An Analysis in the Aurangabad District of Maharashtra State, India",Sustainability
+Sardooi,2019,Modeling the Impact of Climate Change and Land Use Change Scenarios on Soil Erosion at the Minab Dam Watershed,Sustainability
+Hua,2021,Impact Assessments of Typhoon Lekima on Forest Damages in Subtropical China Using Machine Learning Methods and Landsat 8 OLI Imagery,Sustainability
+Breaban,2022,3D Modeling of Urban Area Based on Oblique UAS Images-An End-to-End Pipeline,Remote Sens
+Heras,2020,Texture Extraction Techniques for the Classification of Vegetation Species in Hyperspectral Imagery: Bag of Words Approach Based on Superpixels,Remote Sens
+Wickberg,2020,Where Humans and the Planetary Conflate-An Introduction to Environing Media,Humanities-Basel
+Marquez,2021,"Cultivating Positive Health, Learning, and Community: The Return of Mesoamerica's Quetzalcoatl and the Venus Star",Genealogy
+Kissling,2018,Building essential biodiversity variables (EBVs) of species distribution and abundance at a global scale,Biol Rev
+Anders,2021,A Framework for Cloud-Based Spatially-Explicit Uncertainty and Sensitivity Analysis in Spatial Multi-Criteria Models,ISPRS Int J Geo-Inf
+Proestakis,2018,Earth-Observation-Based Estimation and Forecasting of Particulate Matter Impact on Solar Energy in Egypt,Remote Sens
+Lenti,2020,Mapping Three Decades of Changes in the Brazilian Savanna Native Vegetation Using Landsat Data Processed in the Google Earth Engine Platform,Remote Sens
+Castro,2020,Mapping Three Decades of Changes in the Brazilian Savanna Native Vegetation Using Landsat Data Processed in the Google Earth Engine Platform,Remote Sens
+Fonseka,2019,"Urbanization and Its Impacts on Land Surface Temperature in Colombo Metropolitan Area, Sri Lanka, from 1988 to 2016",Remote Sens
+Kinaci,2022,Semantic Segmentation of High-Resolution Airborne Images with Dual-Stream DeepLabV3+,ISPRS Int J Geo-Inf
+Avsar,2022,Semantic Segmentation of High-Resolution Airborne Images with Dual-Stream DeepLabV3+,ISPRS Int J Geo-Inf
+Aydar,2022,Semantic Segmentation of High-Resolution Airborne Images with Dual-Stream DeepLabV3+,ISPRS Int J Geo-Inf
+Li,2020,Multimodal Bilinear Fusion Network With Second-Order Attention-Based Channel Selection for Land Cover Classification,IEEE J Sel Top Appl Earth Observ Remote Sens
+Andreo,2021,Spatial Distribution of Aedes aegypti Oviposition Temporal Patterns and Their Relationship with Environment and Dengue Incidence,Insects
+Trong Hop Dang,2019,Multiple kernel collaborative fuzzy clustering algorithm with weighted super-pixels for satellite image land-cover classification,Eng Appl Artif Intell
+Salekin,2020,Sentinel-2 Data for Land Cover/Use Mapping: A Review,Remote Sens
+Li,2018,Chemical Diversity of Metal Sulfide Minerals and Its Implications for the Origin of Life,Life-Basel
+Beckley,2021,Altimetry for the future: Building on 25 years of progress,Adv Space Res
+Du Penhoat,2021,Altimetry for the future: Building on 25 years of progress,Adv Space Res
+Garcia-Mondejar,2021,Altimetry for the future: Building on 25 years of progress,Adv Space Res
+Nilsen,2021,Altimetry for the future: Building on 25 years of progress,Adv Space Res
+Ricker,2021,Altimetry for the future: Building on 25 years of progress,Adv Space Res
+Salaun,2021,Altimetry for the future: Building on 25 years of progress,Adv Space Res
+Scharffenberg,2021,Altimetry for the future: Building on 25 years of progress,Adv Space Res
+Vuilleumier,2021,Altimetry for the future: Building on 25 years of progress,Adv Space Res
+Pinheiro,2021,A Large-Scale Deep-Learning Approach for Multi-Temporal Aqua and Salt-Culture Mapping,Remote Sens
+Rahimlou,2021,Characterization of the Ergosterol Biosynthesis Pathway in Ceratocystidaceae,J Fungi
+Beckett,2020,Observations and Recommendations for Coordinated Calibration Activities of Government and Commercial Optical Satellite Systems,Remote Sens
+Pana,2020,A Random Forest Modelling Procedure for a Multi-Sensor Assessment of Tree Species Diversity,Remote Sens
+Condro,2020,Retrieving the National Main Commodity Maps in Indonesia Based on High-Resolution Remotely Sensed Data Using Cloud Computing Platform,Land
+Pramulya,2020,Retrieving the National Main Commodity Maps in Indonesia Based on High-Resolution Remotely Sensed Data Using Cloud Computing Platform,Land
+Minh Hai Pham,2020,Mangrove forest classification and aboveground biomass estimation using an atom search algorithm and adaptive neuro-fuzzy inference system,PLoS One
+Kankam,2021,Testing the Contribution of Multi-Source Remote Sensing Features for Random Forest Classification of the Greater Amanzule Tropical Peatland,Sensors
+Ferrara,2019,Sustainable International Relations,Pope Francis' Encyclical Laudato Si' and the Planetary Implications of Integral Ecology Religions
+Dehghani,2020,Spatial Analysis of Seasonal Precipitation over Iran: Co-Variation with Climate Indices,ISPRS Int Geo-Inf
+Salehi,2020,Spatial Analysis of Seasonal Precipitation over Iran: Co-Variation with Climate Indices,ISPRS Int Geo-Inf
+Hoffmann,2020,"Maximum Fraction Images Derived from Year-Based Project for On-Board Autonomy-Vegetation (PROBA-V) Data for the Rapid Assessment of Land Use and Land Cover Areas in Mato Grosso State, Brazil",Land
+Ianiri,2021,Halogenated Volatile Organic Compounds in Water Samples and Inorganic Elements Levels in Ores for Characterizing a High Anthropogenic Polluted Area in the Northern Latium Region (Italy),Int J Environ Res Public Health
+Liu,2021,Modeling the Relationship of >= 2 MeV Electron Fluxes at Different Longitudes in Geostationary Orbit by the Machine Learning Method,Remote Sens
+Shi,2021,Modeling the Relationship of >= 2 MeV Electron Fluxes at Different Longitudes in Geostationary Orbit by the Machine Learning Method,Remote Sens
+Qi,2020,Classification Strategies for Unbalanced Binary Maps: Finding Ponderosa Pine (Pinus ponderosa) in the Willamette Valley,Remote Sens
+Bonavita,2021,Machine Learning for Earth System Observation and Prediction,Bull Amer Meteorol Soc
+Antoniou,2020,"Fusing Earth Observation, Volunteered Geographic Information and Artificial Intelligence for improved Land Management",GeoMedia
+Dowling,2021,ExtremeEarth Meets Satellite Data From Space,IEEE J Sel Top Appl Earth Observ Remote Sens
+Pantazi,2021,ExtremeEarth Meets Satellite Data From Space,IEEE J Sel Top Appl Earth Observ Remote Sens
+Al Khalifah,2020,Permeability prediction and diagenesis in tight carbonates using machine learning techniques,Mar Pet Geol
+Davis,2019,A Heterogeneous and Interactive Big Earth Data Framework,BDE 2019: 2019 INTERNATIONAL CONFERENCE ON BIG DATA ENGINEERING
+Caputo,2018,The Power of Visualization in Learning Geoscience,Understanding Climate Change Seeking and Comparing Images Rend Online Soc Geol Ital
+Ozturk,2019,Interplanetary Transfers via Deep Representations of the Optimal Policy and/or of the Value Function,PROCEEDINGS OF THE 2019 GENETIC AND EVOLUTIONARY COMPUTATION CONFERENCE COMPANION (GECCCO'19 COMPANION)
+Torres,2019,The possibility and risks of artificial general intelligence,Bull Atom Scient
+Zurbaran,2019,A MACHINE LEARNING PIPELINE ARTICULATING SATELLITE IMAGERY AND OPENSTREETMAP FOR ROAD DETECTION,FOSS4G 2019 - ACADEMIC TRACK
+Chan,2020,Parametrization of Stochastic Inputs Using Generative Adversarial Networks With Application in Geology,Front Water
+Lamprecht,2020,Modelling the Refractive Index Structure Parameter: A ResNet Approach,2020 INTERNATIONAL CONFERENCE ON BROADBAND COMMUNICATIONS FOR NEXT GENERATION NETWORKS AND MULTIMEDIA APPLICATIONS (COBCOM)
+Nonnenmacher,2021,"Deep Emulators for Differentiation, Forecasting, and Parametrization in Earth Science Simulators",J Adv Model Earth Syst
+Bischke,2019,EuroSAT: A Novel Dataset and Deep Learning Benchmark for Land Use and Land Cover Classification,IEEE J Sel Top Appl Earth Observ Remote Sens
+Strnad,2019,Deep reinforcement learning in World-Earth system models to discover sustainable management strategies,Chaos
+Boulton,2018,The challenges of a Big Data Earth,Big Earth Data
+Svendsen,2020,Deep Gaussian processes for biogeophysical parameter retrieval and model inversion,ISPRS-J Photogramm Remote Sens
+Carrero-Pazos,2021,Hybrid MSRM-Based Deep Learning and Multitemporal Sentinel 2-Based Machine Learning Algorithm Detects Near 10k Archaeological Tumuli in North-Western Iberia,Remote Sens
+Kristoffersen,2021,An Automatic Well Planner for Complex Well Trajectories,Math Geosci
+Ronzio,2022,Machine Learning techniques for solar irradiation nowcasting: Cloud type classification forecast through satellite data and imagery,Appl Energy
+Dramsch,2020,70 years of machine learning in geoscience in review,Adv Geophys
+Felsche,2021,Applying machine learning for drought prediction in a perfect model framework using data from a large ensemble of climate simulations,Nat Hazards Earth Syst Sci
+Hefele,2020,Identifying Earth-impacting asteroids using an artificial neural network,Astron Astrophys
+Campa,2019,Why space colonization will be fully automated,Technol Forecast Soc Chang
+Phelan,2020,Detection of ringforts from aerial photography using machine learning,2020 31ST IRISH SIGNALS AND SYSTEMS CONFERENCE (ISSC)
+Balestra,IONS,"A Machine Learning Approach for Mapping Forest Categories: An Application of Google Earth Engine for the Case Study of Monte Sant'Angelo, Central Italy",COMPUTATIONAL SCIENCE AND ITS APPLICA
+Chiappini,IONS,"A Machine Learning Approach for Mapping Forest Categories: An Application of Google Earth Engine for the Case Study of Monte Sant'Angelo, Central Italy",COMPUTATIONAL SCIENCE AND ITS APPLICA
+Weigand,2019,Modelling the impact of the urban spatial structure on the choice of residential location using 'big earth data' and machine learning,2019 JOINT URBAN REMOTE SENSING EVENT (JURSE)
+Goebel,2019,Modelling the impact of the urban spatial structure on the choice of residential location using 'big earth data' and machine learning,2019 JOINT URBAN REMOTE SENSING EVENT (JURSE)
+Jentzsch,2021,A qualitative study of Machine Learning practices and engineering challenges in Earth Observation,IT-Inf Technol
+Tsanaktsidis,2020,A cloud based smart recycling bin for waste classification,2020 9TH INTERNATIONAL CONFERENCE ON MODERN CIRCUITS AND SYSTEMS TECHNOLOGIES (MOCAST)
+Bereta,2018,From Big Data to Big Information and Big Knowledge: the Case of Earth Observation Data,CIKM'18: PROCEEDINGS OF THE 27TH ACM INTERNATIONAL CONFERENCE ON INFORMATION AND KNOWLEDGE MANAGEMENT
+Manegold,2018,From Big Data to Big Information and Big Knowledge: the Case of Earth Observation Data,CIKM'18: PROCEEDINGS OF THE 27TH ACM INTERNATIONAL CONFERENCE ON INFORMATION AND KNOWLEDGE MANAGEMENT
+Kopperud,2019,Text-mined fossil biodiversity dynamics using machine learning,Proc R Soc B-Biol Sci
+Taktak,2018,PREDICAT: A semantic service-oriented platform for data interoperability and linking in earth observation and disaster prediction,2018 IEEE 11TH CONFERENCE ON SERVICE-ORIENTED COMPUTING AND APPLICATIONS (SOCA)
+Ben Lamine,2018,PREDICAT: A semantic service-oriented platform for data interoperability and linking in earth observation and disaster prediction,2018 IEEE 11TH CONFERENCE ON SERVICE-ORIENTED COMPUTING AND APPLICATIONS (SOCA)
+Boukadi,2018,PREDICAT: A semantic service-oriented platform for data interoperability and linking in earth observation and disaster prediction,2018 IEEE 11TH CONFERENCE ON SERVICE-ORIENTED COMPUTING AND APPLICATIONS (SOCA)
+Zghal,2018,PREDICAT: A semantic service-oriented platform for data interoperability and linking in earth observation and disaster prediction,2018 IEEE 11TH CONFERENCE ON SERVICE-ORIENTED COMPUTING AND APPLICATIONS (SOCA)
+Grlj,2020,Earth Observation for agricultural drought monitoring in the Pannonian Basin (southeastern Europe): current state and future directions,Reg Envir Chang
+Bucur,2020,Earth Observation for agricultural drought monitoring in the Pannonian Basin (southeastern Europe): current state and future directions,Reg Envir Chang
+Viavattene,kets,Artificial Neural Networks for Multiple NEA Rendezvous Missions with Continuous Thrust,J Spacecr Ro
+Gurol,2021,Latent space data assimilation by using deep learning,Q J R Meteorol Soc
+Sadeghi,2021,Detecting Ground Deformation in the Built Environment Using Sparse Satellite InSAR Data With a Convolutional Neural Network,IEEE Trans Geosci Remote Sensing
+Gil-Fournier,2021,Ground truth to fake geographies: machine vision and learning in visual practices,AI Soc
+Parikka,2021,Ground truth to fake geographies: machine vision and learning in visual practices,AI Soc
+Aminalragia-Giamini,2018,Artificial intelligence unfolding for space radiation monitor data,J Space Weather Space Clim
+Silva,osci,Efficient well placement optimization under uncertainty using a virtual drilling procedure,Comput G
+Sukhanov,2018,Open Data for Global Multimodal Land Use Classification: Outcome of the 2017 IEEE GRSS Data Fusion Contest,IEEE J Sel Top Appl Earth Observ Remote Sens
+Heremans,2018,Open Data for Global Multimodal Land Use Classification: Outcome of the 2017 IEEE GRSS Data Fusion Contest,IEEE J Sel Top Appl Earth Observ Remote Sens
+Meraner,2020,Cloud removal in Sentinel-2 imagery using a deep residual neural network and SAR-optical data fusion,ISPRS-J Photogramm Remote Sens
+Lian,2021,Large-Scale Semantic 3-D Reconstruction: Outcome of the 2019 IEEE GRSS Data Fusion Contest-Part B,IEEE J Sel Top Appl Earth Observ Remote Sens
+Zhou,2021,Large-Scale Semantic 3-D Reconstruction: Outcome of the 2019 IEEE GRSS Data Fusion Contest-Part B,IEEE J Sel Top Appl Earth Observ Remote Sens
+Jia,2021,Large-Scale Semantic 3-D Reconstruction: Outcome of the 2019 IEEE GRSS Data Fusion Contest-Part B,IEEE J Sel Top Appl Earth Observ Remote Sens
+Wu,2021,Large-Scale Semantic 3-D Reconstruction: Outcome of the 2019 IEEE GRSS Data Fusion Contest-Part B,IEEE J Sel Top Appl Earth Observ Remote Sens
+Hesse,2020,Challenges in Applying Machine Learning Models for Hydrological Inference: A Case Study for Flooding Events Across Germany,Water Resour Res
+Asensio Ramos,2021,Learning to do multiframe wavefront sensing unsupervised: Applications to blind deconvolution,Astron Astrophys
+Quynh Duy Bui,2021,"GIS-based ensemble computational models for flood susceptibility prediction in the Quang Binh Province, Vietnam",J Hydrol
+Wagemann,2021,Users of open Big Earth data-An analysis of the current state,Comput Geosci
+Tsog,2020,Enabling radiation tolerant heterogeneous GPU-based onboard data processing in space,CEAS Space J
+Kunkel,2020,Enabling radiation tolerant heterogeneous GPU-based onboard data processing in space,CEAS Space J
+Flordal,2020,Enabling radiation tolerant heterogeneous GPU-based onboard data processing in space,CEAS Space J
+Troxel,2020,Enabling radiation tolerant heterogeneous GPU-based onboard data processing in space,CEAS Space J
+Zech,2021,Automatic mapping of national surface water with OpenStreetMap and Sentinel-2 MSI data using deep learning,Int J Appl Earth Obs Geoinf
+Fendrich,2021,Automatic mapping of national surface water with OpenStreetMap and Sentinel-2 MSI data using deep learning,Int J Appl Earth Obs Geoinf
+Pallocchia,2021,An empirical model of the Earth's bow shock based on an artificial neural network,Planet Space Sci
+Geanta,MICS,Horizon Scanning: Rise of Planetary Health Genomics and Digital Twins for Pandemic Preparedness,
+Zoumpekas,2021,An intelligent framework for end-to-end rockfall detection,Int J Intell Syst
+Fontanelli,2020,Remote Sensing of Forest Biomass Using GNSS Reflectometry,IEEE J Sel Top Appl Earth Observ Remote Sens
+Clarizia,2020,Remote Sensing of Forest Biomass Using GNSS Reflectometry,IEEE J Sel Top Appl Earth Observ Remote Sens
+Aubrun,TION,Unsupervised Learning of Robust Representations for Change Detection on Sentinel-2 Earth Observation Images,ENVIRONMENTAL SOFTWARE SYSTEMS: DATA SCIENCE IN A
+Troya-Galvis,TION,Unsupervised Learning of Robust Representations for Change Detection on Sentinel-2 Earth Observation Images,ENVIRONMENTAL SOFTWARE SYSTEMS: DATA SCIENCE IN A
+Hugues,TION,Unsupervised Learning of Robust Representations for Change Detection on Sentinel-2 Earth Observation Images,ENVIRONMENTAL SOFTWARE SYSTEMS: DATA SCIENCE IN A
+Spigai,TION,Unsupervised Learning of Robust Representations for Change Detection on Sentinel-2 Earth Observation Images,ENVIRONMENTAL SOFTWARE SYSTEMS: DATA SCIENCE IN A
+Oehmcke,2019,Detecting Hardly Visible Roads in Low-Resolution Satellite Time Series Data,2019 IEEE INTERNATIONAL CONFERENCE ON BIG DATA (BIG DATA)
+Salles,2019,Detecting Hardly Visible Roads in Low-Resolution Satellite Time Series Data,2019 IEEE INTERNATIONAL CONFERENCE ON BIG DATA (BIG DATA)
+Michel,2020,1D geological imaging of the subsurface from geophysical data with Bayesian Evidential Learning,Comput Geosci
+Strecker,2020,"Seismic reservoir characterization of Bentheimer sandstone, Emlichheim oil field, Lower Saxony, Germany",Interpretation
+Hagedorn,2020,"Seismic reservoir characterization of Bentheimer sandstone, Emlichheim oil field, Lower Saxony, Germany",Interpretation
+Zeug,2020,"Seismic reservoir characterization of Bentheimer sandstone, Emlichheim oil field, Lower Saxony, Germany",Interpretation
+Veeken,2020,"Seismic reservoir characterization of Bentheimer sandstone, Emlichheim oil field, Lower Saxony, Germany",Interpretation
+Weiel,2020,"Seismic reservoir characterization of Bentheimer sandstone, Emlichheim oil field, Lower Saxony, Germany",Interpretation
+Fuhren,2020,"Seismic reservoir characterization of Bentheimer sandstone, Emlichheim oil field, Lower Saxony, Germany",Interpretation
+Frehers,2020,"Seismic reservoir characterization of Bentheimer sandstone, Emlichheim oil field, Lower Saxony, Germany",Interpretation
+Weghs,2021,Photometric search for exomoons by using convolutional neural networks,Astro Nachr
+Wagemann,2018,Geospatial web services pave new ways for server-based on-demand access and processing of Big Earth Data,Int J Digit Earth
+Nikolov,2020,ANTHROPOCENE VERSUS HOLOCENE IN THE LIGHT OF THE PRINCIPLES OF STRATIGRAPHY,C R Acad Bulg Sci
+Hristova,2020,ANTHROPOCENE VERSUS HOLOCENE IN THE LIGHT OF THE PRINCIPLES OF STRATIGRAPHY,C R Acad Bulg Sci
+Ortombina,2019,Adaptive Maximum Torque per Ampere Control of Synchronous Reluctance Motors by Radial Basis Function Networks,IEEE J Emerg Sel Top Power Electron
+Lopez-Perez,2021,A Contribution to Deep Learning Approaches for Automatic Classification of Volcano-Seismic Events: Deep Gaussian Processes,IEEE Trans Geosci Remote Sensing
+Matthews,2020,Decoding earth's plate tectonic history using sparse geochemical data,Geosci Front
+Wegner, Mag,"Deep Learning and Earth Observation to Support the Sustainable Development Goals: Current Approaches, Open Challenges, and Future Opportunities",IEEE Geosci Remote Sen
+Kunwar,2021,Large-Scale Semantic 3-D Reconstruction: Outcome of the 2019 IEEE GRSS Data Fusion Contest-Part A,IEEE J Sel Top Appl Earth Observ Remote Sens
+Caumont,2018,From Copernicus Big Data to Big Information and Big Knowledge: A Demo from the Copernicus App Lab Project,CIKM'18: PROCEEDINGS OF THE 27TH ACM INTERNATIONAL CONFERENCE ON INFORMATION AND KNOWLEDGE MANAGEMENT
+Ubels,2018,From Copernicus Big Data to Big Information and Big Knowledge: A Demo from the Copernicus App Lab Project,CIKM'18: PROCEEDINGS OF THE 27TH ACM INTERNATIONAL CONFERENCE ON INFORMATION AND KNOWLEDGE MANAGEMENT
+Wahyudi,2018,From Copernicus Big Data to Big Information and Big Knowledge: A Demo from the Copernicus App Lab Project,CIKM'18: PROCEEDINGS OF THE 27TH ACM INTERNATIONAL CONFERENCE ON INFORMATION AND KNOWLEDGE MANAGEMENT
+Nevistic,2022,"The Concept, Realizations and Role of Geosciences in the Development of Smart Cities",Teh Vjesn
+Chmielewska,2021,Remote measurement of building usable floor area - Algorithms fusion,Land Use Pol
+Garnett,2018,Total systemic failure?,Sci Total Environ
+Kronberg,2021,Prediction of Soft Proton Intensities in the Near-Earth Space Using Machine Learning,Astrophys J
+Girard,2018,END-TO-END LEARNING OF POLYGONS FOR REMOTE SENSING IMAGE CLASSIFICATION,IGARSS 2018 - 2018 IEEE INTERNATIONAL GEOSCIENCE AND REMOTE SENSING SYMPOSIUM
+Stavroulopoulou,TION,Deep Learning for Agricultural Land Detection in Insular Areas,2019 10TH INTERNATIONAL CONFERENCE ON INFORM
+Grivei,2020,SVMIRE - AN OPEN SOURCE SVM IMAGE RETRIEVAL WITH RELEVANCE FEEDBACK SYSTEM FOR EARTH OBSERVATION DATA CLASSIFICATION,2020 13TH INTERNATIONAL CONFERENCE ON COMMUNICATIONS (COMM)
+Dell'Aversana,2020,An integrated multi-physics Machine Learning approach for exploration risk mitigation,Boll Geofis Teor Appl
+Baumann,2020,BIG DATA S TANDARDS AND ANALYSIS -READ INES S : STATUS AND EVOLUTION,IGARSS 2020 - 2020 IEEE INTERNATIONAL GEOSCIENCE AND REMOTE SENSING SYMPOSIUM
+Carbonari,2018,Filtering of noisy magnetotelluric signals by SOM neural networks,Phys Earth Planet Inter
+Jahangir,2019,Effective Ground-Truthing of Supervised Machine Learning for Drone Classification,2019 INTERNATIONAL RADAR CONFERENCE (RADAR2019)
+Baker,2019,Effective Ground-Truthing of Supervised Machine Learning for Drone Classification,2019 INTERNATIONAL RADAR CONFERENCE (RADAR2019)
+Kurinov,2020,Automated Excavator Based on Reinforcement Learning and Multibody System Dynamics,IEEE Access
+Scano,2021,Extending P4 in-band telemetry to user equipment for latency- and localization-aware autonomous networking with AI forecasting,J Opt Commun Netw
+Johnson,2020,Kernel methods and their derivatives: Concept and perspectives for the earth system sciences,PLoS One
+Mosser,2020,Stochastic Seismic Waveform Inversion Using Generative Adversarial Networks as a Geological Prior,Math Geosci
+Pittaras,2019,GeoSensor: Semantifying Change and Event Detection over Big Data,SAC '19: PROCEEDINGS OF THE 34TH ACM/SIGAPP SYMPOSIUM ON APPLIED COMPUTING
+Taniskidou,2019,GeoSensor: Semantifying Change and Event Detection over Big Data,SAC '19: PROCEEDINGS OF THE 34TH ACM/SIGAPP SYMPOSIUM ON APPLIED COMPUTING
+Thanos,2019,GeoSensor: Semantifying Change and Event Detection over Big Data,SAC '19: PROCEEDINGS OF THE 34TH ACM/SIGAPP SYMPOSIUM ON APPLIED COMPUTING
+Tsekouras,2019,GeoSensor: Semantifying Change and Event Detection over Big Data,SAC '19: PROCEEDINGS OF THE 34TH ACM/SIGAPP SYMPOSIUM ON APPLIED COMPUTING
+Sichitiu,2020,Digital Tracking Cloud Distributed Architecture for Detection of Faint NEAs,2019 21ST INTERNATIONAL SYMPOSIUM ON SYMBOLIC AND NUMERIC ALGORITHMS FOR SCIENTIFIC COMPUTING (SYNASC 2019)
+Vaduvescu,2020,Digital Tracking Cloud Distributed Architecture for Detection of Faint NEAs,2019 21ST INTERNATIONAL SYMPOSIUM ON SYMBOLIC AND NUMERIC ALGORITHMS FOR SCIENTIFIC COMPUTING (SYNASC 2019)
+Coluccia,2020,Optical Compressive Imaging Technologies for Space Big Data,IEEE Trans Big Data
+Frajberg,2020,Mountain summit detection with Deep Learning: evaluation and comparison with heuristic methods,Appl Geomat
+Smirnov,2020,Medium Energy Electron Flux in Earth's Outer Radiation Belt (MERLIN): A Machine Learning Model,Space Weather
+Martincic,2019,Automated System for Ship Detection from Medium Resolution Satellite Optical Imagery,OCEANS 2019 MTS/IEEE SEATTLE
+Taktak,TING,Towards Knowledge-Driven Automatic Service Composition for Wildfire Prediction,SERVICE-ORIENTED COMP
+Atanassov,SORS,Multisensor Earth observation systems: data fusion,SE
+Lenouvel,2021,Identification of Electron Diffusion Regions with a Machine Learning Approach on MMS Data at the Earth's Magnetopause,Earth Space Sci
+Hoffmann,2021,The value of multiple data sources in machine learning models for power system event prediction,2021 INTERNATIONAL CONFERENCE ON SMART ENERGY SYSTEMS AND TECHNOLOGIES (SEST)
+Klemets,2021,The value of multiple data sources in machine learning models for power system event prediction,2021 INTERNATIONAL CONFERENCE ON SMART ENERGY SYSTEMS AND TECHNOLOGIES (SEST)
+Rosenlund,2021,The value of multiple data sources in machine learning models for power system event prediction,2021 INTERNATIONAL CONFERENCE ON SMART ENERGY SYSTEMS AND TECHNOLOGIES (SEST)
+Agnan,2021,Scaling uncertainties on asteroid characteristics to prepare datasets for machine learning,Adv Space Res
+Rothe,2020,"Jellyfish encounters: science, technology and security in the Anthropocene ocean",Crit Stud Secur
+Apostolopoulos,2019,EXTENDING OGC STANDARDS FOR SUPPORTING BIG-EARTH DATA RETRIEVAL AND ANALYTICS,2019 IEEE INTERNATIONAL GEOSCIENCE AND REMOTE SENSING SYMPOSIUM (IGARSS 2019)
+Koltsida,2019,EXTENDING OGC STANDARDS FOR SUPPORTING BIG-EARTH DATA RETRIEVAL AND ANALYTICS,2019 IEEE INTERNATIONAL GEOSCIENCE AND REMOTE SENSING SYMPOSIUM (IGARSS 2019)
+Apfeld,2021,Recognition of Unknown Radar Emitters With Machine Learning,IEEE Trans Aerosp Electron Syst
+Charlish,2021,Recognition of Unknown Radar Emitters With Machine Learning,IEEE Trans Aerosp Electron Syst
+Gurk,2019,Food authentication: Multi-elemental analysis of white asparagus for provenance discrimination,Food Chem
+Bockmayr,2019,Food authentication: Multi-elemental analysis of white asparagus for provenance discrimination,Food Chem
+Schmid,2019,Mitigating supply risks through involvement in rare earth projects: Japan's strategies and what the US can learn,Resour Policy
+Mihevc,2021,"MORPHOLOGICAL CHARACTERISTICS AND DISTRIBUTION OF DOLINES IN SLOVENIA, A STUDY OF A LIDAR-BASED DOLINE MAP OF SLOVENIA",ACTA CARSOLOGICA
+Mihevc,2021,"MORPHOLOGICAL CHARACTERISTICS AND DISTRIBUTION OF DOLINES IN SLOVENIA, A STUDY OF A LIDAR-BASED DOLINE MAP OF SLOVENIA",ACTA CARSOLOGICA
+Kadow,2020,Artificial intelligence reconstructs missing climate information,Nat Geosci
+Mouradi,2021,Physically interpretable machine learning algorithm on multidimensional non-linear fields,J Comput Phys
+Pereira,2019,Development of an ANN based corrective algorithm of the operational ECMWF global horizontal irradiation forecasts,Sol Energy
+Stefanut,2018,NEARBY Platform: Algorithm for Automated Asteroids Detection in Astronomical Images,2018 IEEE 14TH INTERNATIONAL CONFERENCE ON INTELLIGENT COMPUTER COMMUNICATION AND PROCESSING (ICCP)
+Bacu,2018,NEARBY Platform: Algorithm for Automated Asteroids Detection in Astronomical Images,2018 IEEE 14TH INTERNATIONAL CONFERENCE ON INTELLIGENT COMPUTER COMMUNICATION AND PROCESSING (ICCP)
+Nandra,2018,NEARBY Platform: Algorithm for Automated Asteroids Detection in Astronomical Images,2018 IEEE 14TH INTERNATIONAL CONFERENCE ON INTELLIGENT COMPUTER COMMUNICATION AND PROCESSING (ICCP)
+Balasz,2018,NEARBY Platform: Algorithm for Automated Asteroids Detection in Astronomical Images,2018 IEEE 14TH INTERNATIONAL CONFERENCE ON INTELLIGENT COMPUTER COMMUNICATION AND PROCESSING (ICCP)
+Jorge,LITY,Geolocation and Counting of People with Aerial Thermal Imaging for Rescue Purposes<bold> </bold>,AUGMENTED RE
+Gudzius,2019,Optimal U-net architecture for object recognition problems in multispectral satellite imagery,2019 IEEE/ACS 16TH INTERNATIONAL CONFERENCE ON COMPUTER SYSTEMS AND APPLICATIONS (AICCSA 2019)
+Selea,2020,AgriSen - A Dataset for Crop Classification,2020 22ND INTERNATIONAL SYMPOSIUM ON SYMBOLIC AND NUMERIC ALGORITHMS FOR SCIENTIFIC COMPUTING (SYNASC 2020)
+Pslaru,2020,AgriSen - A Dataset for Crop Classification,2020 22ND INTERNATIONAL SYMPOSIUM ON SYMBOLIC AND NUMERIC ALGORITHMS FOR SCIENTIFIC COMPUTING (SYNASC 2020)
+Kondmann,2021,Change Detection in Hyperdimensional Images Using Untrained Models,IEEE J Sel Top Appl Earth Observ Remote Sens
+Song,2021,Change Detection in Hyperdimensional Images Using Untrained Models,IEEE J Sel Top Appl Earth Observ Remote Sens
+Arostegi,2022,Machine Learning Based Soft Sensing Tool for the Prediction of Leaf Wetness Duration in Precision Agriculture,16TH INTERNATIONAL CONFERENCE ON SOFT COMPUTING MODELS IN INDUSTRIAL AND ENVIRONMENTAL APPLICATIONS (SOCO 2021)
+Zanandrez,2021,Dengue Vector Population Forecasting Using Multisource Earth Observation Products and Recurrent Neural Networks,IEEE J Sel Top Appl Earth Observ Remote Sens
+Eiras,2021,Dengue Vector Population Forecasting Using Multisource Earth Observation Products and Recurrent Neural Networks,IEEE J Sel Top Appl Earth Observ Remote Sens
+Peyrot,2019,"HexaShrink, an exact scalable framework for hexahedral meshes with attributes and discontinuities: multiresolution rendering and storage of geoscience models",Comput Geosci
+Bouard,2019,"HexaShrink, an exact scalable framework for hexahedral meshes with attributes and discontinuities: multiresolution rendering and storage of geoscience models",Comput Geosci
+Chizat,2019,"HexaShrink, an exact scalable framework for hexahedral meshes with attributes and discontinuities: multiresolution rendering and storage of geoscience models",Comput Geosci
+Schneider,2019,"HexaShrink, an exact scalable framework for hexahedral meshes with attributes and discontinuities: multiresolution rendering and storage of geoscience models",Comput Geosci
+Paralic,2020,Statistical Approach for Sky Clouds Density Classification,PROCEEDINGS OF THE 2020 CONFERENCE ON NEW TRENDS IN SIGNAL PROCESSING (NTSP)
+Acciaro,2020,Detecting salient regions in a bi-temporal hyperspectral scene by iterating clustering and classification,Appl Intell
+Antoniak,2020,Towards resource-frugal deep convolutional neural networks for hyperspectral image segmentation,Microprocess Microsyst
+Bonano,2020,National Scale Surface Deformation Time Series Generation through Advanced DInSAR Processing of Sentinel-1 Data within a Cloud Computing Environment,IEEE Trans Big Data
+Manzo,2020,National Scale Surface Deformation Time Series Generation through Advanced DInSAR Processing of Sentinel-1 Data within a Cloud Computing Environment,IEEE Trans Big Data
+Koelemeijer,2021,3D Printing the World: Developing Geophysical Teaching Materials and Outreach Packages,Front Earth Sci
+Opitz,2020,"Data Analytics, Machine Learning and Risk Assessment for Surveillance and Situation Awareness",2020 21ST INTERNATIONAL RADAR SYMPOSIUM (IRS 2020)
+Daestner,2020,"Data Analytics, Machine Learning and Risk Assessment for Surveillance and Situation Awareness",2020 21ST INTERNATIONAL RADAR SYMPOSIUM (IRS 2020)
+Schmid,2020,"Data Analytics, Machine Learning and Risk Assessment for Surveillance and Situation Awareness",2020 21ST INTERNATIONAL RADAR SYMPOSIUM (IRS 2020)
+zu Roseneckh-Koehler,2020,"Data Analytics, Machine Learning and Risk Assessment for Surveillance and Situation Awareness",2020 21ST INTERNATIONAL RADAR SYMPOSIUM (IRS 2020)
+Papa,2022,Investigating Spaceborne Millimeter-Wave Ice Cloud Imager Geolocation Using Landmark Targets and Frequency-Scaling Approach,IEEE Trans Geosci Remote Sensing
+Sabo,2019,Update and improvement of the European Settlement map,2019 JOINT URBAN REMOTE SENSING EVENT (JURSE)
+Politis,2019,Update and improvement of the European Settlement map,2019 JOINT URBAN REMOTE SENSING EVENT (JURSE)
+Parisot,-HOC,DMSS: Decision Management System for Safer Spacecrafts,A
+Benedetti,2018,M(3)Fusion: A Deep Learning Architecture for Multiscale Multimodal Multitemporal Satellite Data Fusion,IEEE J Sel Top Appl Earth Observ Remote Sens
+van Dijk,2021,Machine Learning to Improve Orientation Estimation in Sports Situations Challenging for Inertial Sensor Use,Front Sports Act Living
+DeSantis,#NAME?,Coarse-grain cluster analysis of tensors with application to climate biome identification,#NAME?
+Mauracher,2021,Wildfire Detection From Multisensor Satellite Imagery Using Deep Semantic Segmentation,IEEE J Sel Top Appl Earth Observ Remote Sens
+Pohjankukka,2019,The spatial leave-pair-out cross-validation method for reliable AUC estimation of spatial classifiers,Data Min Knowl Discov
+Nykanen,2019,The spatial leave-pair-out cross-validation method for reliable AUC estimation of spatial classifiers,Data Min Knowl Discov
+Liu,2019,CME Arrival Time Prediction Using Convolutional Neural Network,Astrophys J
+Schaefer,2019,Global Megathrust Earthquake Hazard-Maximum Magnitude Assessment Using Multi-Variate Machine Learning,Front Earth Sci
+Mueller-Budack,2018,Geolocation Estimation of Photos Using a Hierarchical Model and Scene Classification,COMPUTER VISION - ECCV
+Pustu-Iren,2018,Geolocation Estimation of Photos Using a Hierarchical Model and Scene Classification,COMPUTER VISION - ECCV
+Padron-Hidalgo,2022,Unsupervised Anomaly and Change Detection With Multivariate Gaussianization,IEEE Trans Geosci Remote Sensing
+Schlattmann, GIS,APPLICATION OF REMOTE SENSING AND BIG DATA FOR GLOBAL WATER USE SUSTAINABILITY ASSESSMENT AND MONITORING,7TH INTERNATIONAL CONFERENCE ON CARTOGRAPHY AN
+Monterrubio-Velasco,2018,A Machine Learning Approach for Parameter Screening in Earthquake Simulation,2018 30TH INTERNATIONAL SYMPOSIUM ON COMPUTER ARCHITECTURE AND HIGH PERFORMANCE COMPUTING (SBAC-PAD 2018)
+Carrasco-Jimenez,2018,A Machine Learning Approach for Parameter Screening in Earthquake Simulation,2018 30TH INTERNATIONAL SYMPOSIUM ON COMPUTER ARCHITECTURE AND HIGH PERFORMANCE COMPUTING (SBAC-PAD 2018)
+Heidler,2021,Developing and Testing a Deep Learning Approach for Mapping Retrogressive Thaw Slumps,Remote Sens
+Mazouz,2019,Multi-Sensory CNN Models for Close Proximity Satellite Operations,2019 IEEE AEROSPACE CONFERENCE
+Coiffier,2020,3D Geological Image Synthesis From 2D Examples Using Generative Adversarial Networks,Front Water
+Masse,2021,Development and Application of Earth Observation Based Machine Learning Methods for Characterizing Forest and Land Cover Change in Dilijan National Park of Armenia between 1991 and 2019,Remote Sens
+Kehs,2021,From Village to Globe: A Dynamic Real-Time Map of African Fields Through PlantVillage,Front Sustain Food Syst
+Lorenzo,2020,DATA MINING ON THE CANDELA CLOUD PLATFORM,IGARSS 2020 - 2020 IEEE INTERNATIONAL GEOSCIENCE AND REMOTE SENSING SYMPOSIUM
+Melet,2018,A new architecture paradigm for image processing pipeline applied to massive remote sensing data production,IMAGE AND SIGNAL PROCESSING FOR REMOTE SENSING XXIV
+Madhuanand,2021,Deep convolutional neural networks for surface coal mines determination from sentinel-2 images,Eur J Remote Sens
+Bloch,2021,Constraining the Location of the Outer Boundary of Earth's Outer Radiation Belt,Earth Space Sci
+Laurenza,2021,Open Issues in Statistical Forecasting of Solar Proton Events: A Machine Learning Perspective,Space Weather
+Cadoret,2019,Proof-of-principle demonstration of vertical-gravity-gradient measurement using a single-proof-mass double-loop atom interferometer,Phys Rev A
+Schaefermeier,TING,Distances for WiFi Based Topological Indoor Mapping,PROCEEDINGS OF THE 16TH EAI INTERNATIONAL CONFERENCE ON MOBILE AND UBIQUITOUS SYSTEMS: COMP
+Hanika,TING,Distances for WiFi Based Topological Indoor Mapping,PROCEEDINGS OF THE 16TH EAI INTERNATIONAL CONFERENCE ON MOBILE AND UBIQUITOUS SYSTEMS: COMP
+Peng,2020,Potential of Ensemble Learning to Improve Tree-Based Classifiers for Landslide Susceptibility Mapping,IEEE J Sel Top Appl Earth Observ Remote Sens
+Wong,2021,Ophthalmology Going Greener: A Narrative Review,OPHTHALMOL THER
+Blair,2019,Data Science of the Natural Environment: A Research Roadmap,Front Environ Sci
+Rincon-Yanez,2020,Towards a semantic model for IoT-based seismic event detection and classification,2020 IEEE SYMPOSIUM SERIES ON COMPUTATIONAL INTELLIGENCE (SSCI)
+Ploutarchos,2018,Accuracy of Available Seismic Data in Google Earth,SIXTH INTERNATIONAL CONFERENCE ON REMOTE SENSING AND GEOINFORMATION OF THE ENVIRONMENT (RSCY2018)
+Schmitt,2022,Multitask Learning for Human Settlement Extent Regression and Local Climate Zone Classification,IEEE Geosci Remote Sens Lett
+Mahecha,2020,Earth system data cubes unravel global multivariate dynamics,Earth Syst Dynam
+Gans,2020,Earth system data cubes unravel global multivariate dynamics,Earth Syst Dynam
+Khan,2020,Histograms to Quantify Dataset Shift for Spectrum Data Analytics: A SoC Based Device Perspective,2020 2ND 6G WIRELESS SUMMIT (6G SUMMIT)
+Lehnert,2019,Hyperspectral Data Analysis in R: The hsdar Package,J Stat Softw
+Pospiech,2019,Hyperspectral outcrop models for palaeoseismic studies,Photogramm Rec
+Nordback,2019,Hyperspectral outcrop models for palaeoseismic studies,Photogramm Rec
+Kossmann,2021,Towards Tackling Multi-Label Imbalances in Remote Sensing Imagery,2020 25TH INTERNATIONAL CONFERENCE ON PATTERN RECOGNITION (ICPR)
+Yuan,2021,A Machine Learning Technique for Spatial Interpolation of Solar Radiation Observations,Earth Space Sci
+Calota,2020,Low Resolution for DNN in SAR,2020 IEEE RADAR CONFERENCE (RADARCONF20)
+Hubinova,2019,CHANGE THE WORLD THROUGH THE ARTS (REVIVING THE ARTS EXPERIENCE FROM LATVIA),MEGATRENDS AND MEDIA: DIGITAL UNIVERSE
+Berg,2021,Criminology: Some lines of flight,J Criminol -UK
+Galkowski,018),Outliers Detection in Regressions by Nonparametric Parzen Kernel Estimation,ARTIFICIAL INTELLIGENCE AND SOFT COMPUTING (ICAISC 
+Wu,2021,Derivation of Geometrically and Semantically Annotated UAV Datasets at Large Scales from 3D City Models,2020 25TH INTERNATIONAL CONFERENCE ON PATTERN RECOGNITION (ICPR)
+Orieschnig,2021,"Input imagery, classifiers, and cloud computing: Insights from multi-temporal LULC mapping in the Cambodian Mekong Delta",Eur J Remote Sens
+Barkaoui,2021,Anatomy of Continuous Mars SEIS and Pressure Data from Unsupervised Learning,Bull Seismol Soc Amer
+Nelson,2019,Predicting the Curie temperature of ferromagnets using machine learning,Phys Rev Mater
+Kulbacki,2018,Survey of Drones for Agriculture Automation from Planting to Harvest,2018 IEEE 22ND INTERNATIONAL CONFERENCE ON INTELLIGENT ENGINEERING SYSTEMS (INES 2018)
+Wegner,2018,Identifying networks with common organizational principles,J Complex Netw
+Ospina-Forero,2018,Identifying networks with common organizational principles,J Complex Netw
+Reinert,2018,Identifying networks with common organizational principles,J Complex Netw
+Federici,2021,Reinforcement Learning for Robust Trajectory Design of Interplanetary Missions,J Guid Control Dyn
+Smith,2020,Probabilistic Forecasts of Storm Sudden Commencements From Interplanetary Shocks Using Machine Learning,Space Weather
+Trifunov,2021,A Data-Driven Approach to Partitioning Net Ecosystem Exchange Using a Deep State Space Model,IEEE Access
+El Mendili,2020,Towards a Multi-Temporal Deep Learning Approach for Mapping Urban Fabric Using Sentinel 2 Images,Remote Sens
+Chougrad,2020,Towards a Multi-Temporal Deep Learning Approach for Mapping Urban Fabric Using Sentinel 2 Images,Remote Sens
+Lehman,2020,Making an Anthropocene Ocean: Synoptic Geographies of the International Geophysical Year (1957-1958),Ann Am Assoc Geogr
+Memishi,2019,Cold Storage Data Archives: More Than Just a Bunch of Tapes,15TH INTERNATIONAL WORKSHOP ON DATA MANAGEMENT ON NEW HARDWARE (DAMON 2019)
+Appuswamy,2019,Cold Storage Data Archives: More Than Just a Bunch of Tapes,15TH INTERNATIONAL WORKSHOP ON DATA MANAGEMENT ON NEW HARDWARE (DAMON 2019)
+Paradies,2019,Cold Storage Data Archives: More Than Just a Bunch of Tapes,15TH INTERNATIONAL WORKSHOP ON DATA MANAGEMENT ON NEW HARDWARE (DAMON 2019)
+Baumeister,2020,Machine-learning Inference of the Interior Structure of Low-mass Exoplanets,Astrophys J
+Hafner,2021,"Fast, Cheap, and Turbulent-Global Ocean Modeling With GPU Acceleration in Python",J Adv Model Earth Syst
+Leidner,2019,Global Remote Operation of Intelligent Space Robot Assistants,THIRTY-THIRD AAAI CONFERENCE ON ARTIFICIAL INTELLIGENCE / THIRTY-FIRST INNOVATIVE APPLICATIONS OF ARTIFICIAL INTELLIGENCE CONFERENCE / NINTH AAAI SYMPOSIUM ON EDUCATIONAL ADVANCES IN ARTIFICIAL INTELLIGENCE
+Schmaus,2019,Global Remote Operation of Intelligent Space Robot Assistants,THIRTY-THIRD AAAI CONFERENCE ON ARTIFICIAL INTELLIGENCE / THIRTY-FIRST INNOVATIVE APPLICATIONS OF ARTIFICIAL INTELLIGENCE CONFERENCE / NINTH AAAI SYMPOSIUM ON EDUCATIONAL ADVANCES IN ARTIFICIAL INTELLIGENCE
+Schmidt,2019,Global Remote Operation of Intelligent Space Robot Assistants,THIRTY-THIRD AAAI CONFERENCE ON ARTIFICIAL INTELLIGENCE / THIRTY-FIRST INNOVATIVE APPLICATIONS OF ARTIFICIAL INTELLIGENCE CONFERENCE / NINTH AAAI SYMPOSIUM ON EDUCATIONAL ADVANCES IN ARTIFICIAL INTELLIGENCE
+Bayer,2019,Global Remote Operation of Intelligent Space Robot Assistants,THIRTY-THIRD AAAI CONFERENCE ON ARTIFICIAL INTELLIGENCE / THIRTY-FIRST INNOVATIVE APPLICATIONS OF ARTIFICIAL INTELLIGENCE CONFERENCE / NINTH AAAI SYMPOSIUM ON EDUCATIONAL ADVANCES IN ARTIFICIAL INTELLIGENCE
+Krueger,2019,Global Remote Operation of Intelligent Space Robot Assistants,THIRTY-THIRD AAAI CONFERENCE ON ARTIFICIAL INTELLIGENCE / THIRTY-FIRST INNOVATIVE APPLICATIONS OF ARTIFICIAL INTELLIGENCE CONFERENCE / NINTH AAAI SYMPOSIUM ON EDUCATIONAL ADVANCES IN ARTIFICIAL INTELLIGENCE
+Lii,2019,Global Remote Operation of Intelligent Space Robot Assistants,THIRTY-THIRD AAAI CONFERENCE ON ARTIFICIAL INTELLIGENCE / THIRTY-FIRST INNOVATIVE APPLICATIONS OF ARTIFICIAL INTELLIGENCE CONFERENCE / NINTH AAAI SYMPOSIUM ON EDUCATIONAL ADVANCES IN ARTIFICIAL INTELLIGENCE
+Spiliopoulos,ABLE,Countering Real-Time Stream Poisoning: An architecture for detecting vessel spoofing in streams of AIS data,2018 16TH IEEE INT CONF ON DEPEN
+Chatzikokolakis,ABLE,Countering Real-Time Stream Poisoning: An architecture for detecting vessel spoofing in streams of AIS data,2018 16TH IEEE INT CONF ON DEPEN
+Tchorbadjieff,2019,Change Point Analysis as a Tool to Detect Abrupt Cosmic Ray Muons Variations,ADVANCED COMPUTING IN INDUSTRIAL MATHEMATICS (BGSIAM 2017)
+Reed,2020,"Spatial variation in bioavailable strontium isotope ratios (Sr-87/Sr-86) in Kenya and northern Tanzania: Implications for ecology, paleoanthropology, and archaeology",Paleogeogr Paleoclimatol Paleoecol
+Hamilton,2020,"Spatial variation in bioavailable strontium isotope ratios (Sr-87/Sr-86) in Kenya and northern Tanzania: Implications for ecology, paleoanthropology, and archaeology",Paleogeogr Paleoclimatol Paleoecol
+Tang,2021,A novel index to evaluate discretization methods: A case study of flood susceptibility assessment based on random forest,Geosci Front
+Silva,2021,An operational Sentinel-2 based monitoring system for the management and control of direct aids to the farmers in the context of the Common Agricultural Policy (CAP): A case study in mainland Portugal,Int J Appl Earth Obs Geoinf
+Catalao,2021,An operational Sentinel-2 based monitoring system for the management and control of direct aids to the farmers in the context of the Common Agricultural Policy (CAP): A case study in mainland Portugal,Int J Appl Earth Obs Geoinf
+Hoiem,2020,Clustering and Dimensionality-reduction Techniques Applied on Power Quality Measurement Data,2020 INTERNATIONAL CONFERENCE ON SMART ENERGY SYSTEMS AND TECHNOLOGIES (SEST)
+Coca,ectr,AUTOENCODER BASED METHOD FOR MULTISPECTRAL IMAGES VISUALIZATION,Univ Politeh Buchar Sci Bull Ser C-E
+Coca,ectr,AUTOENCODER BASED METHOD FOR MULTISPECTRAL IMAGES VISUALIZATION,Univ Politeh Buchar Sci Bull Ser C-E
+Schrefl,2020,Computational Design of Rare-Earth Reduced Permanent Magnets,Engineering
+Pereira,2021,Ghostnet for Hyperspectral Image Classification,IEEE Trans Geosci Remote Sensing
+Just,2018,Pattern Recognition Scheme for Large-Scale Cloud Detection Over Landmarks,IEEE J Sel Top Appl Earth Observ Remote Sens
+Klimczak,2021,Predicting Asteroid Types: Importance of Individual and Combined Features,Front Astron Space Sci
+Christodoulou,2018,A Fuzzy Shape-Based Anomaly Detection and Its Application to Electromagnetic Data,IEEE J Sel Top Appl Earth Observ Remote Sens
+Wilkie,2018,A Fuzzy Shape-Based Anomaly Detection and Its Application to Electromagnetic Data,IEEE J Sel Top Appl Earth Observ Remote Sens
+Tinarelli,2019,SKA: the Authentication and Authorization System Requirements and Prototype,ASTRONOMICAL DATA ANALYSIS SOFTWARE AND SYSTEMS XXVI
+Knapic,2019,SKA: the Authentication and Authorization System Requirements and Prototype,ASTRONOMICAL DATA ANALYSIS SOFTWARE AND SYSTEMS XXVI
+Bridger,2019,SKA: the Authentication and Authorization System Requirements and Prototype,ASTRONOMICAL DATA ANALYSIS SOFTWARE AND SYSTEMS XXVI
+Balhar,2018,New Enabling Technologies to Observe and Characterise Urban Environments with Big Data from Space - the Urban Thematic Exploitation Platform,EXPANDING CITIES - DIMINISHING SPACE: ARE SMART CITIES THE SOLUTION OR PART OF THE PROBLEM OF CONTINUOUS URBANISATION AROUND THE GLOBE? (REAL CORP 2018)
+Boissier,2018,New Enabling Technologies to Observe and Characterise Urban Environments with Big Data from Space - the Urban Thematic Exploitation Platform,EXPANDING CITIES - DIMINISHING SPACE: ARE SMART CITIES THE SOLUTION OR PART OF THE PROBLEM OF CONTINUOUS URBANISATION AROUND THE GLOBE? (REAL CORP 2018)
+Mathot,2018,New Enabling Technologies to Observe and Characterise Urban Environments with Big Data from Space - the Urban Thematic Exploitation Platform,EXPANDING CITIES - DIMINISHING SPACE: ARE SMART CITIES THE SOLUTION OR PART OF THE PROBLEM OF CONTINUOUS URBANISATION AROUND THE GLOBE? (REAL CORP 2018)
+Bengana,2021,Improving Land Cover Segmentation Across Satellites Using Domain Adaptation,IEEE J Sel Top Appl Earth Observ Remote Sens
+Barrios,2021,Partial Discharge Identification in MV Switchgear Using Scalogram Representations and Convolutional AutoEncoder,IEEE Trans Power Deliv
+Bailey,2020,Prediction of Dst During Solar Minimum Using In Situ Measurements at L5,Space Weather
+Stubbemann,VIII,Orometric Methods in Bounded Metric Data,ADVANCES IN INTELLIGENT DATA ANALYSIS 
+Hanika,VIII,Orometric Methods in Bounded Metric Data,ADVANCES IN INTELLIGENT DATA ANALYSIS 
+Stumme,VIII,Orometric Methods in Bounded Metric Data,ADVANCES IN INTELLIGENT DATA ANALYSIS 
+Mariani,2021,Overview of optical observation strategies and systems: LEO and GEO measurements acquisition for position and attitude determination,2021 IEEE 8TH INTERNATIONAL WORKSHOP ON METROLOGY FOR AEROSPACE (IEEE METROAEROSPACE)
+Celesti,2021,Overview of optical observation strategies and systems: LEO and GEO measurements acquisition for position and attitude determination,2021 IEEE 8TH INTERNATIONAL WORKSHOP ON METROLOGY FOR AEROSPACE (IEEE METROAEROSPACE)
+Cimino,2021,Overview of optical observation strategies and systems: LEO and GEO measurements acquisition for position and attitude determination,2021 IEEE 8TH INTERNATIONAL WORKSHOP ON METROLOGY FOR AEROSPACE (IEEE METROAEROSPACE)
+di Palo,2021,Overview of optical observation strategies and systems: LEO and GEO measurements acquisition for position and attitude determination,2021 IEEE 8TH INTERNATIONAL WORKSHOP ON METROLOGY FOR AEROSPACE (IEEE METROAEROSPACE)
+Rossetti,2021,Overview of optical observation strategies and systems: LEO and GEO measurements acquisition for position and attitude determination,2021 IEEE 8TH INTERNATIONAL WORKSHOP ON METROLOGY FOR AEROSPACE (IEEE METROAEROSPACE)
+Bucciarelli,2021,Overview of optical observation strategies and systems: LEO and GEO measurements acquisition for position and attitude determination,2021 IEEE 8TH INTERNATIONAL WORKSHOP ON METROLOGY FOR AEROSPACE (IEEE METROAEROSPACE)
+Koerner,2022,Mapping invasive strawberry guava (Psidium cattleianum) in tropical forests of Mauritius with Sentinel-2 and machine learning,Int J Remote Sens
+Clochard,2018,Quadri-joint inversion: Method and application to the Big Sky 9C 3D data set in northern Montana,Interpretation
+DeVault,2018,Quadri-joint inversion: Method and application to the Big Sky 9C 3D data set in northern Montana,Interpretation
+Bowen,2018,Quadri-joint inversion: Method and application to the Big Sky 9C 3D data set in northern Montana,Interpretation
+Delepine,2018,Quadri-joint inversion: Method and application to the Big Sky 9C 3D data set in northern Montana,Interpretation
+Wangkawong,2018,Quadri-joint inversion: Method and application to the Big Sky 9C 3D data set in northern Montana,Interpretation
+Ahmed,2021,Ambient air pollution and meteorological factors escalate electricity consumption,Sci Total Environ
+Ward,2018,Rhyl Field: developing a new structural model by integrating basic geological principles with advanced seismic imaging in the Irish Sea,PETROLEUM GEOLOGY OF NW EUROPE: 50 YEARS OF LEARNING - PROCEEDINGS OF THE 8TH PETROLEUM GEOLOGY CONFERENCE
+van der Velde,2018,Living on the Edge? Transformation of a Marginal Pleistocene Landscape Into a Settlement Area in the Northeastern Part of the Netherlands,Environ Archaeol
+Jevnaker,019),The Dynamics of Societal and Corporate Ideas: The Knowledge Work Design of the Future,PROCEEDINGS OF THE 20TH EUROPEAN CONFERENCE ON KNOWLEDGE MANAGEMENT (ECKM 
+Pivetta,2020,Sensitivity of gravity and topography regressions to earth and planetary structures,Tectonophysics
+van der Meij,andf,Comparing geomorphological maps made manually and by deep learning,Earth Surf Process 
+Coope,2021,How might Indigenous decolonization agendas inform Anthropocene historiography?,Rethink Hist
+Diprima,2018,Efficient and automatic image reduction framework for space debris detection based on GPU technology,Acta Astronaut
+Fortunato,2018,Efficient and automatic image reduction framework for space debris detection based on GPU technology,Acta Astronaut
+Jin,2022,MultiScene: A Large-Scale Dataset and Benchmark for Multiscene Recognition in Single Aerial Images,IEEE Trans Geosci Remote Sensing
+Albani,2020,Long time data series and data stewardship reference model,Big Earth Data
+Cayoglu,2018,Concept and Analysis of Information Spaces to improve Prediction-Based Compression,2018 IEEE INTERNATIONAL CONFERENCE ON BIG DATA (BIG DATA)
+Tristram,2018,Concept and Analysis of Information Spaces to improve Prediction-Based Compression,2018 IEEE INTERNATIONAL CONFERENCE ON BIG DATA (BIG DATA)
+Meyer,2018,Concept and Analysis of Information Spaces to improve Prediction-Based Compression,2018 IEEE INTERNATIONAL CONFERENCE ON BIG DATA (BIG DATA)
+Kerzenmacher,2018,Concept and Analysis of Information Spaces to improve Prediction-Based Compression,2018 IEEE INTERNATIONAL CONFERENCE ON BIG DATA (BIG DATA)
+Wilms,2021,A Beginner's Guide on Integrating *Omics Approaches to Study Marine Microbial Communities: Details and Discussions From Sample Collection to Bioinformatics Analysis,Front Mar Sci
+Ferri,2018,The exploration of PHOBOS: Design of a Sample Return mission,Adv Space Res
+Pelle,2018,The exploration of PHOBOS: Design of a Sample Return mission,Adv Space Res
+Belluco,2018,The exploration of PHOBOS: Design of a Sample Return mission,Adv Space Res
+Voirin,2018,The exploration of PHOBOS: Design of a Sample Return mission,Adv Space Res
+Govigli,2021,Climate data for the European forestry sector: From end-user needs to opportunities for climate resilience,Clim Serv
+Jimenez,2021,Climate data for the European forestry sector: From end-user needs to opportunities for climate resilience,Clim Serv
+Kerstens,2019,Synergies Between Space and Energy: Space as a Tool to Support European Energy Goals,Space Policy
+Kaercher,2018,System Design of large Optical Communication Antennas,OPTICAL DESIGN AND ENGINEERING VII
+van de Kerkhof,2020,Individual Scatterer Model Learning for Satellite Interferometry,IEEE Trans Geosci Remote Sensing
+Gilet,2021,Automatic Detection of the Thermal Electron Density From the WHISPER Experiment Onboard CLUSTER-II Mission With Neural Networks,J Geophys Res-Space Phys
+Merchel,2021,Which is the best Be-9 carrier for Be-10/Be-9 accelerator mass spectrometry?,MethodsX
+Markwick,2019,Palaeogeography in exploration,Geol Mag
+Dessein,2018,Regularized Optimal Transport and the Rot Mover's Distance,J Mach Learn Res
+Rouas,2018,Regularized Optimal Transport and the Rot Mover's Distance,J Mach Learn Res
+Franchi,2018,Model predictive and reallocation problem for CubeSat fault recovery and attitude control,Mech Syst Signal Proc
+Feruglio,2018,Model predictive and reallocation problem for CubeSat fault recovery and attitude control,Mech Syst Signal Proc
+Mozzillo,2018,Model predictive and reallocation problem for CubeSat fault recovery and attitude control,Mech Syst Signal Proc
+Lummitsch,2019,The perspective of optical measurement methods in forestry,PHOTONICS AND EDUCATION IN MEASUREMENT SCIENCE
+Findeisen,2019,The perspective of optical measurement methods in forestry,PHOTONICS AND EDUCATION IN MEASUREMENT SCIENCE
+Haas,2019,The perspective of optical measurement methods in forestry,PHOTONICS AND EDUCATION IN MEASUREMENT SCIENCE
+Hengl,2018,Random forest as a generic framework for predictive modeling of spatial and spatio-temporal variables,PeerJ
+Schneider,2021,"Origin of carbon in agricultural soil profiles deduced from depth gradients of C:N ratios, carbon fractions, delta C-13 and delta N-15 values",Plant Soil
+Leontjev,ling,Multimodal mediational means in assessment of processes: an argument for a hard-CLIL approach,Int J Biling Educ B
+Ali,TEMS,Anomaly Detection Procedures in a Real World Dataset by Using Deep-Learning Approaches,INTELLIGENT INFORMATION AND DATABASE SY
+Rasheeq,TEMS,Anomaly Detection Procedures in a Real World Dataset by Using Deep-Learning Approaches,INTELLIGENT INFORMATION AND DATABASE SY
+Kemavo,2018,Geometric Multi-Wavelet Total Variation for SAR Image Time Series Analysis,2018 21ST INTERNATIONAL CONFERENCE ON INFORMATION FUSION (FUSION)
+Williams,2021,Getting the European Relay Coordination Office Ready for Business,2021 IEEE AEROSPACE CONFERENCE (AEROCONF 2021)
+Loureiro,2021,Getting the European Relay Coordination Office Ready for Business,2021 IEEE AEROSPACE CONFERENCE (AEROCONF 2021)
+Denis,2021,Getting the European Relay Coordination Office Ready for Business,2021 IEEE AEROSPACE CONFERENCE (AEROCONF 2021)
+Schmitz,2021,Getting the European Relay Coordination Office Ready for Business,2021 IEEE AEROSPACE CONFERENCE (AEROCONF 2021)
+Binder,2020,"A Liberal Order Beyond Earth? Civil Sphere, The Culture and the Future of Liberalism",Sociol Obozr
+Mahnke,2021,Facebook use as a communicative relation: exploring the relation between Facebook users and the algorithmic news feed,Info Commun Soc
+Doucet,2019,Mixed-Precision Tomographic Reconstructor Computations on Hardware Accelerators,2019 IEEE/ACM 9TH WORKSHOP ON IRREGULAR APPLICATIONS - ARCHITECTURES AND ALGORITHMS (IA3)
+Ltaief,2019,Mixed-Precision Tomographic Reconstructor Computations on Hardware Accelerators,2019 IEEE/ACM 9TH WORKSHOP ON IRREGULAR APPLICATIONS - ARCHITECTURES AND ALGORITHMS (IA3)
+Gratadour,2019,Mixed-Precision Tomographic Reconstructor Computations on Hardware Accelerators,2019 IEEE/ACM 9TH WORKSHOP ON IRREGULAR APPLICATIONS - ARCHITECTURES AND ALGORITHMS (IA3)
+Bernoux,2021,An operational approach to forecast the Earth's radiation belts dynamics,J Space Weather Space Clim
+Niittynen, S A,Decreasing snow cover alters functional composition and diversity of Arctic tundra,Proc Natl Acad Sci 
+Dietz,2021,Trends in Satellite Earth Observation for Permafrost Related Analyses-A Review,Remote Sens
+Doxani,2019,DECISION MAKING ON DISASTER MANAGEMENT IN AGRICULTURE WITH SENTINEL APPLICATIONS,ISPRS ICWG III/IVA GI4DM 2019 - GEOINFORMATION FOR DISASTER MANAGEMENT
+Gennaro,2019,Multispectral remote sensing for post-dictive analysis of archaeological remains,A case study from Bronte (Sicily) Archaeol Prospect
+Gudzius,2021,Deep learning-based object recognition in multispectral satellite imagery for real-time applications,Mach Vis Appl
+Ergin,2018,Times Square in the Era of Post-truth Politics,PROCEEDINGS OF THE 4TH MEDIA ARCHITECTURE BIENNALE CONFERENCE 2018 (MAB18)
+Schieck,2018,Times Square in the Era of Post-truth Politics,PROCEEDINGS OF THE 4TH MEDIA ARCHITECTURE BIENNALE CONFERENCE 2018 (MAB18)
+Martin,2019,Geological interpretation of two virtual outcrops of deformed Palaeozoic rocks (NW Iberian Peninsula) using 3D stereo VDT in a computer assisted virtual environment (CAVE (TM)),J Iber Geol
+Peternelj,2019,THE EU'S ARMY TRANSFORMATION: TRENDS AND PERSPECTIVES,ECONOMIC AND SOCIAL DEVELOPMENT: 43RD INTERNATIONAL SCIENTIFIC CONFERENCE ON ECONOMIC AND SOCIAL DEVELOPMENT RETHINKING MANAGEMENT IN THE DIGITAL ERA: CHALLENGES FROM INDUSTRY 4 0 TO RETAIL MANAGEMENT
+Kiessling,2019,Climate change and the latitudinal selectivity of ancient marine extinctions,Paleobiology
+Sherwen,2019,A machine-learning-based global sea-surface iodide distribution,Earth Syst Sci Data
+Roechert,2022,Caught in a networked collusion? Homogeneity in conspiracy-related discussion networks on YouTube,Inf Syst
+Wakeford, Eng,The exoplanet perspective on future ice giant exploration,Philos Trans R Soc A-Math Phy
+Malagnino,2021,Building Information Modeling and Internet of Things integration for smart and sustainable environments: A review,J Clean Prod
+Morras,2022,Search for black hole hyperbolic encounters with gravitational wave detectors,Phys Dark Universe
+Pearlman,2019,Technologies for Observing and Monitoring Plastics in the Oceans,OCEANS 2019 - MARSEILLE
+Codispoti,2018,Validation of ground technologies for future Q/V band satellite systems: the QV - LIFT project,2018 IEEE AEROSPACE CONFERENCE
+Parca,2018,Validation of ground technologies for future Q/V band satellite systems: the QV - LIFT project,2018 IEEE AEROSPACE CONFERENCE
+Massaro,2018,Validation of ground technologies for future Q/V band satellite systems: the QV - LIFT project,2018 IEEE AEROSPACE CONFERENCE
+Jafarian,2018,"Synthetic seismic model of a Permian biosiliceous carbonate - carbonate depositional system (Spitsbergen, Svalbard Archipelago)",Mar Pet Geol
+Tso,2020,State Tagging for Improved Earth and Environmental Data Quality Assurance,Front Environ Sci
+Polito,2021,A New View of the Solar Interface Region from the Interface Region Imaging Spectrograph (IRIS),Sol Phys
+Antolin,2021,A New View of the Solar Interface Region from the Interface Region Imaging Spectrograph (IRIS),Sol Phys
+Nobrega-Siverio,2021,A New View of the Solar Interface Region from the Interface Region Imaging Spectrograph (IRIS),Sol Phys
+Martinez-Sykora,2021,A New View of the Solar Interface Region from the Interface Region Imaging Spectrograph (IRIS),Sol Phys
+McIntosh,2021,A New View of the Solar Interface Region from the Interface Region Imaging Spectrograph (IRIS),Sol Phys
+Daw,2021,A New View of the Solar Interface Region from the Interface Region Imaging Spectrograph (IRIS),Sol Phys
+Huntingford,2019,Machine learning and artificial intelligence to aid climate change research and preparedness,Environ Res Lett
+Breuillard,2020,Automatic Classification of Plasma Regions in Near-Earth Space With Supervised Machine Learning: Application to Magnetospheric Multi Scale 2016-2019 Observations,Front Astron Space Sci
+Requena-Mesa,TION,Predicting Landscapes from Environmental Conditions Using Generative Networks,PATTERN RECOGN
+Hutcheon,2020,Predicting novel superconducting hydrides using machine learning approaches,Phys Rev B
+Hutcheon,2020,Predicting novel superconducting hydrides using machine learning approaches,Phys Rev B
+Lindsay,2021,A machine learning approach for regional geochemical data: Platinum-group element geochemistry vs geodynamic settings of the North Atlantic Igneous Province,Geosci Front
+Couchman,2021,Data-Driven Identification of Turbulent Oceanic Mixing From Observational Microstructure Data,Geophys Res Lett
+Zomorodian,2020,Overtopping erosion of model earthen dams analysed using digital image-processing method,Proc Inst Civil Eng -Water Manag
+de la Fuente Marcos,2021,Using Mars co-orbitals to estimate the importance of rotation-induced YORP break-up events in Earth co-orbital space,Mon Not Roy Astron Soc
+James,2021,The Scalable Plasma Ion Composition and Electron Density (SPICED) Model for Earth's Inner Magnetosphere,J Geophys Res-Space Phys
+Miltiadou,2019,"Open source software DASOS: efficient accumulation, analysis and visualisation of full-waveform LiDAR",SEVENTH INTERNATIONAL CONFERENCE ON REMOTE SENSING AND GEOINFORMATION OF THE ENVIRONMENT (RSCY2019)
+Miltiadou,2019,"Open source software DASOS: efficient accumulation, analysis and visualisation of full-waveform LiDAR",SEVENTH INTERNATIONAL CONFERENCE ON REMOTE SENSING AND GEOINFORMATION OF THE ENVIRONMENT (RSCY2019)
+Hargreaves,2020,The Earth Mover's Distance as a Metric for the Space of Inorganic Compositions,Chem Mat
+Furnell,2019,First results from the LUCID-Timepix spacecraft payload onboard the TechDemoSat-1 satellite in Low Earth Orbit,Adv Space Res
+Kirkham,2020,Morphometry of bedrock meltwater channels on Antarctic inner continental shelves: Implications for channel development and subglacial hydrology,Geomorphology
+Murga,SORS,"A compact, lightweight and quasi-athermal optical bench for iSIM170",SE
+Zeljas,2019,INFLUENCE OF RHEOLOGICAL PARAMETERS OF THE FORE-SUDETIC MONOCLINE PLASTIC ROCKS ON THE PROCESS OF DRILLING BOREHOLES,Arch Min Sci
+Raptis,2020,Classification of Magnetosheath Jets Using Neural Networks and High Resolution OMNI (HRO) Data,Front Astron Space Sci
+Zhelavskaya,2021,A Combined Neural Network- and Physics-Based Approach for Modeling Plasmasphere Dynamics,J Geophys Res-Space Phys
+Palchowdhuri,2018,"Classification of multi-temporal spectral indices for crop type mapping: a case study in Coalville, UK",J Agric Sci
+Rajpaul,2021,A HARPS-N mass for the elusive Kepler-37d: a case study in disentangling stellar activity and planetary signals,Mon Not Roy Astron Soc
+Babuska,2020,Growth of primordial continents by cycles of oceanic lithosphere subductions: Evidence from tilted seismic anisotropy supported by geochemical and petrological findings,Solid Earth Sci
